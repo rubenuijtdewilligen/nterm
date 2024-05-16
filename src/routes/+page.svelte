@@ -133,4 +133,12 @@
       </button>
     </div>
   {/if}
+
+  <div class="divider"></div>
+
+  <p>
+    Vragen/suggesties? DM <a class="link ml-0.5" href="https://instagram.com/ruben.uijtdewilligen"
+      >@ruben.uijtdewilligen</a
+    >
+  </p>
 </div>
